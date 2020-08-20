@@ -2,7 +2,9 @@
 
 
 ### Hi there 👋
-
+### 최은선 
+#### 컴퓨터공학과 졸업 
+#### 
 <!--
 **esun1903/esun1903** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
