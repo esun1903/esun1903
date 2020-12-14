@@ -19,5 +19,8 @@ Here are some ideas to get you started:
 -->
 
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsamuel950523%2F2Fesun1903.github.io&count_bg=%23000000&title_bg=%23F76712&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=esun1903)](https://github.com/2Fesun1903/github-readme-stats)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=esun1903&count_private=true&show_icons=true&theme=dracula)](https://github.com/2Fesun1903/github-readme-stats)
