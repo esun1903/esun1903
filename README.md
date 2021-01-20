@@ -1,4 +1,4 @@
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fesun1903&count_bg=%235CB8F3&title_bg=%23555555&title=hits&edge_flat=false"/></a>
+
 
 
 #### 최은선 👋
@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fesun1903&count_bg=%235CB8F3&title_bg=%23555555&title=hits&edge_flat=false"/></a>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=esun1903&count_private=true&show_icons=true&theme=gruvbox)](https://github.com/2Fesun1903/github-readme-stats)
 
