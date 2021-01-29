@@ -30,7 +30,7 @@
 
 [![eunseon's github stats](https://github-readme-stats.vercel.app/api?username=esun1903&count_private=true&show_icons=true&theme=gruvbox)](https://github.com/esun1903/github-readme-stats)
 
-
+<h3 align="center"> 🍒 Me 🍒 </h3>
 <!-- <br><br>
 <h3 align="center"> 🍒 Me 🍒 </h3>
 <p align="center">
