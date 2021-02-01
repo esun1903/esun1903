@@ -2,8 +2,6 @@
 
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=EunseonChoi&fontSize=70&animation=twinkling)
 
-<p align="center">🇰🇷 🇦🇺 🇸🇬</p>
-
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 
 <p align="center"> Techs that I've used at least once </p>
@@ -28,9 +26,9 @@
 </p>
 
 
+
 [![eunseon's github stats](https://github-readme-stats.vercel.app/api?username=esun1903&count_private=true&show_icons=true&theme=gruvbox)](https://github.com/esun1903/github-readme-stats)
 
-<h3 align="center"> 🍒 Me 🍒 </h3>
 <!-- <br><br>
 <h3 align="center"> 🍒 Me 🍒 </h3>
 <p align="center">
