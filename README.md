@@ -1,9 +1,9 @@
 
+[![eunseon's github stats](https://github-readme-stats.vercel.app/api?username=esun1903&count_private=true&show_icons=true&theme=gruvbox)](https://github.com/esun1903/github-readme-stats)
 
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 
-[![eunseon's github stats](https://github-readme-stats.vercel.app/api?username=esun1903&count_private=true&show_icons=true&theme=gruvbox)](https://github.com/esun1903/github-readme-stats)
 <p align="center"> Techs that I've used at least once </p>
 
 <p align="center">
