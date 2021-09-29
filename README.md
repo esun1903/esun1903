@@ -1,7 +1,5 @@
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=esun1903)](https://velog.io/@esun1903) 
-<br>
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=esun1903&tag=알고리즘)](https://github.com/esun1903/velog-readme-stats)
-
+<br>[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=esun1903&tag=알고리즘)](https://github.com/esun1903/TIL)
 
 <h3>🛠 Tech Stack 🛠</h3>
 
