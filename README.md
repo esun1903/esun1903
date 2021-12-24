@@ -1,5 +1,5 @@
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=esun1903)](https://velog.io/@esun1903) 
-<br>[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=esun1903&tag=알고리즘_이론)](https://velog.io/@esun1903/Comparator-%EC%99%80-Comparable)
+<br>[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=esun1903&tag=LTS)](https://velog.io/@esun1903/Comparator-%EC%99%80-Comparable)
 
 <h3>🛠 Tech Stack 🛠</h3>
 
