@@ -1,5 +1,5 @@
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=esun1903)](https://velog.io/@esun1903) 
-<br>[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=esun1903&tag=algorithm)](https://velog.io/@esun1903/)
+<br>[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=esun1903&tag=algorithm)](https://velog.io/@esun1903/%EB%B0%B1%EC%A4%80-14891-%ED%86%B1%EB%8B%88%EB%B0%94%ED%80%B4)
 
 <h3>🛠 Tech Stack 🛠</h3>
 
